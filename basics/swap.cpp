@@ -2,6 +2,9 @@
 using namespace std;
 
 // Program to swap two numbers using a temporary variable
+// Time Complexity: O(1)
+// Space Complexity: O(1)
+
 int main() {
     int a, b, temp;
 

@@ -2,6 +2,9 @@
 using namespace std;
 
 // Program to check whether a number is even or odd
+// Time Complexity: O(1)
+// Space Complexity: O(1)
+
 int main() {
     int n;
 

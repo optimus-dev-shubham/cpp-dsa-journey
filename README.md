@@ -46,6 +46,13 @@ It includes well-structured solutions with clear logic and progressive improveme
 
 ---
 
+## 🛠️ Tech Stack
+- C++ (Primary – Data Structures & Algorithms)
+- Python (Strong foundation – OOP, scripting, problem solving)
+- HTML (Basic knowledge of web structure)
+
+---
+
 ## 🚀 Future Plan
 
 - Learn STL (vector, map, set)

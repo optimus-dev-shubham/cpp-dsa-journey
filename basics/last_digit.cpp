@@ -2,6 +2,9 @@
 using namespace std;
 
 // Program to find the last digit of a number
+// Time Complexity: O(1)
+// Space Complexity: O(1)
+
 int main() {
     int n;
 

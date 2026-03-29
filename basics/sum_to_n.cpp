@@ -2,6 +2,9 @@
 using namespace std;
 
 // Program to calculate the sum of first n natural numbers
+// Time Complexity: O(1)
+// Space Complexity: O(1)
+
 int main() {
     int n;
     int sum;
