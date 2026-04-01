@@ -34,10 +34,15 @@ problem-solving skills.
 
 ## 🔥 Highlight Problems
 
--   Tower of Hanoi (Recursion)
--   Josephus Problem (Recursion + Math)
--   Extra Character (XOR Trick)
--   String Algorithms (Anagram, Pangram, Palindrome)
+## 🔥 Problem Solving
+
+- 🔢 [Palindrome Number](./05_problem_solving/palindrome_number.cpp)
+  - Approach: Reverse Half  
+  - Time: O(log n), Space: O(1)
+
+- 🧠 Tower of Hanoi  
+- 🎯 Josephus Problem  
+- 🔤 String Problems (Anagram, Pangram, Palindrome)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +57,8 @@ problem-solving skills.
 
 ## 📈 Progress
 
--   Completed structured folders from basics to problem solving\
+- Covered fundamentals from basics to problem solving
+- Solving problems consistently and improving logic
 -   Implemented both basic and optimized solutions\
 -   Focused on clarity, logic, and clean structure
 
