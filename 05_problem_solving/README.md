@@ -7,6 +7,7 @@ This folder contains logic-heavy and recursive problems.
 - Tower of Hanoi
 - Josephus Problem
 - Chessboard color problem
+- Palindrome Number problem
 
 ## Focus
 

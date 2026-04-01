@@ -1,7 +1,7 @@
 # C++ DSA Journey 🚀
 
 This repository tracks my journey of learning Data Structures and
-Algorithms using C++.\
+Algorithms using C++.
 It focuses on building strong fundamentals, clean coding practices, and
 problem-solving skills.
 
@@ -26,8 +26,7 @@ problem-solving skills.
 -   Arrays (traversal, max element, sorted check)
 -   Strings (anagram, palindrome, pangram, pattern search)
 -   Pointers (reference, pointer swap, dynamic memory)
--   Problem Solving (Tower of Hanoi, Josephus problem, logic-based
-    problems)
+-   Problem Solving – Logic-based problems (Tower of Hanoi, Josephus, LeetCode practice)
 -   Algorithms (GCD, LCM, Fibonacci, Prime check)
 
 ------------------------------------------------------------------------
@@ -48,9 +47,9 @@ problem-solving skills.
 
 ## 🎯 Goals
 
--   Build strong problem-solving skills\
--   Write clean and readable code\
--   Understand concepts deeply (not just syntax)\
+-   Build strong problem-solving skills
+-   Write clean and readable code
+-   Understand concepts deeply (not just syntax)
 -   Maintain consistency in practice
 
 ------------------------------------------------------------------------
@@ -59,7 +58,7 @@ problem-solving skills.
 
 - Covered fundamentals from basics to problem solving
 - Solving problems consistently and improving logic
--   Implemented both basic and optimized solutions\
+-   Implemented both basic and optimized solutions
 -   Focused on clarity, logic, and clean structure
 
 ------------------------------------------------------------------------
