@@ -8,6 +8,8 @@ This folder contains logic-heavy and recursive problems.
 - Josephus Problem
 - Chessboard color problem
 - Palindrome Number problem
+- Plus one (array problem ~ leetcode #66)
+- search insert position(array problem ~ leetcode#35)
 
 ## Focus
 
