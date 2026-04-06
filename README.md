@@ -7,7 +7,7 @@ problem-solving skills.
 
 ------------------------------------------------------------------------
 
-## 📁 Folder Structure
+## 📁 Folder Structure 
 
     cpp-dsa-journey/
     │
