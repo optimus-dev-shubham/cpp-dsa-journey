@@ -7,7 +7,7 @@ This folder contains logic-heavy and recursive problems.
 - Tower of Hanoi
 - Josephus Problem
 - Chessboard color problem
-- Palindrome Number problem
+- Palindrome Number problem ( ~ leetcode #09)
 - Plus one (array problem ~ leetcode #66)
 - search insert position(array problem ~ leetcode #35)
 - length of last word in a string (seperated by spaces ~ leetcode #58)
