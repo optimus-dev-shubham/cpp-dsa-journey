@@ -13,6 +13,7 @@ This folder contains logic-heavy and recursive problems.
 - length of last word in a string (seperated by spaces ~ leetcode #58)
 - reverse the number and check if it's within 32 bit range( ~ leetcode #07)
 - keep multiplying the number if it is found( ~ leetcode # 2154)
+- Majority element ( ~ leetcode # 169) 
 
 ## Focus
 
