@@ -16,6 +16,7 @@ This folder contains logic-heavy and recursive problems.
 - Majority element ( ~ leetcode # 169) 
 - search in rotated array ( key pattern : Modified binary search ~ leetecode #33)
 - peak element (trick : move toward the rising slope ~ leetcode # 162)
+- find first and last position in a sorted array (binary search implementation ~ leetcode #34)
 
 ## Focus
 
