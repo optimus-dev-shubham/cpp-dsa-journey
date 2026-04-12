@@ -21,6 +21,7 @@ This folder contains logic-heavy and recursive problems.
 ## Focus
 
 - Recursion
+- DSA
 - STL
 - Mathematical patterns
 - Logical thinking and approach building
