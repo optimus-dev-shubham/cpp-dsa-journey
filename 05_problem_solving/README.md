@@ -24,4 +24,4 @@ This folder contains logic-heavy and recursive problems.
 - DSA
 - STL
 - Mathematical patterns
-- Logical thinking and approach building
+- Logical thinking and approach building.
