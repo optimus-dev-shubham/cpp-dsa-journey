@@ -58,8 +58,8 @@ problem-solving skills.
 
 - Covered fundamentals from basics to problem solving
 - Solving problems consistently and improving logic
--   Implemented both basic and optimized solutions
--   Focused on clarity, logic, and clean structure
+- Implemented both basic and optimized solutions
+- Focused on clarity, logic, and clean structure
 
 ------------------------------------------------------------------------
 
