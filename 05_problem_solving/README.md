@@ -18,6 +18,7 @@ This folder contains logic-heavy and recursive problems.
 - peak element (trick : move toward the rising slope ~ leetcode # 162)
 - find first and last position in a sorted array (binary search implementation ~ leetcode #34)
 - pow(x,n) (Implemented the power function from scratch which calculates x raised to the power n ~ leetcode #50)
+- valid perfect square(used binary search algo & long long so that integer overflow can be avoided ~ leetcode # 367)
 
 ## Focus
 
