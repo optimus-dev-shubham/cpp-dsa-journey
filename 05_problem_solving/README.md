@@ -19,6 +19,7 @@ This folder contains logic-heavy and recursive problems.
 - find first and last position in a sorted array (binary search implementation ~ leetcode #34)
 - pow(x,n) (Implemented the power function from scratch which calculates x raised to the power n ~ leetcode #50)
 - valid perfect square(used binary search algo & long long so that integer overflow can be avoided ~ leetcode #    367)
+- search in a 2d array ( binary search applied in 1D matrix ~ leetcode #70)
 
 ## Focus
 
